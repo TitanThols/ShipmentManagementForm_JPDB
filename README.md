@@ -83,10 +83,10 @@ This application provides the following core database operations:
 *(Add your screenshots here to make the repository look professional)*
 
 **1. Main Dashboard View:**
-> ![Main UI View](https://via.placeholder.com/800x400?text=Insert+Screenshot+of+Empty+Form+Here)
+> ![Main UI View](https://github.com/TitanThols/ShipmentManagementForm_JPDB/blob/main/images/Screenshot_1.png?raw=true)
 
 **2. Auto-Populated Data View (Update Mode):**
-> ![Update Mode](https://via.placeholder.com/800x400?text=Insert+Screenshot+of+Form+Filled+With+Data+Here)
+> ![Update Mode](https://github.com/TitanThols/ShipmentManagementForm_JPDB/blob/main/images/Screenshot_2.png?raw=true)
 
 ---
 
